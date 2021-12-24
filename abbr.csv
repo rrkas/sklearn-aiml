@@ -1,10 +1,10 @@
-abbr	full_form
-AI	Artificial Intelligence
-ML	Machine Learning
-SVM	Support Vector Machines
-HCA	Hierarchical Cluster Analysis
-PCA	Principal Component Analysis
-LLE	Locally-Linear Embedding
-t-SNE	t-distributed Stochastic Neighbor Embedding
-DBN	deep belief networks
-RBM	restricted Boltzmann machines
+abbr,full_form
+AI,Artificial Intelligence
+ML,Machine Learning
+SVM,Support Vector Machines
+HCA,Hierarchical Cluster Analysis
+PCA,Principal Component Analysis
+LLE,Locally-Linear Embedding
+t-SNE,t-distributed Stochastic Neighbor Embedding
+DBN,deep belief networks
+RBM,restricted Boltzmann machines
