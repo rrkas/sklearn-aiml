@@ -1,0 +1,8 @@
+word	meaning
+Classification	classification refers to a predictive modeling problem where a class label is predicted for a given example of input data
+Regression	Regression in machine learning consists of mathematical methods that allow data scientists to predict a continuous outcome (y) based on the value of one or more predictor variables (x)
+Clustering 	"A way of grouping the data points into different clusters, consisting of similar data points"
+Feature Extraction	Feature Extraction aims to reduce the number of features in a dataset by creating new features from the existing ones
+dimensionality reduction	goal is to simplify the data without losing too much information
+anomaly detection	Anomaly Detection is the technique of identifying rare events or observations which can raise suspicions by being statistically different from the rest of the observations
+association rule learning	goal is to dig into large amounts of data and discover interesting relations between attributes
