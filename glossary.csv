@@ -6,3 +6,13 @@ Feature Extraction,Feature Extraction aims to reduce the number of features in a
 dimensionality reduction,goal is to simplify the data without losing too much information
 anomaly detection,Anomaly Detection is the technique of identifying rare events or observations which can raise suspicions by being statistically different from the rest of the observations
 association rule learning,goal is to dig into large amounts of data and discover interesting relations between attributes
+Supervised Learning,"Supervised learning is the types of machine learning in which machines are trained using well ""labelled"" training data, and on basis of that data, machines predict the output"
+Unsupervised Learning,Unsupervised learning refers to the use of artificial intelligence (AI) algorithms to identify patterns in data sets containing data points that are neither classified nor labeled
+Semisupervised Learning,Semi-supervised learning is an approach to machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training
+Reinforcement Learning,Reinforcement learning (RL) is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward
+Batch Learning / offline Learning,"In batch learning, the system is incapable of learning incrementally: it must be trained using all the available data"
+Online learning,"In online learning, you train the system incrementally by feeding it data instances sequentially, either individually or by small groups called mini-batches. Each learning step is fast and cheap, so the system can learn about new data on the fly, as it arrives"
+Instance-based learning,"the system learns the examples by heart, then generalizes to new cases using a similarity measure"
+Model-based learning,Model-based learning is the formation and subsequent development of mental models by a learner
+utility function / fitness function,measures how good the model is
+cost function,measures how bad the model is
