@@ -1,0 +1,49 @@
+{
+    "Introduction": {
+        "types of machine learning": [
+            "supervised and unsupervised",
+            "batch and online",
+            "instance-based and model based"
+        ],
+        "basic steps": [
+            "get data",
+            "select model",
+            "train the model on data",
+            "test and validate model",
+            "apply model and make predictions"
+        ],
+        "types of datasets":{
+            "training":[
+                "inputs and their outputs are known",
+                "model learns and optimizes the parameters"
+            ],
+            "testing":[
+                "inputs and their outputs are known",
+                "accuracy of model is tested"
+            ],
+            "validation set":[
+                "validates the model"
+            ]
+        },
+        "challenges": {
+            "bad data": [
+                "Insufficient Quantity of Training Data",
+                "Nonrepresentative Training Data",
+                "Poor-Quality Data",
+                "Irrelevant Features",
+                "Overfitting the Training Data",
+                "Underfitting the Training Data"
+            ]
+        }
+    },
+    "avoiding overfitting model": [
+        "simplify the model by selecting one with fewer parameters",
+        "gather more training data",
+        "reduce the noise in the training data"
+    ],
+    "avoiding underfitting model": [
+        "Selecting a more powerful model, with more parameters",
+        "Feeding better features to the learning algorithm",
+        "Reducing the constraints on the model"
+    ]
+}

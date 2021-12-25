@@ -16,3 +16,10 @@ Instance-based learning,"the system learns the examples by heart, then generaliz
 Model-based learning,Model-based learning is the formation and subsequent development of mental models by a learner
 utility function / fitness function,measures how good the model is
 cost function,measures how bad the model is
+Feature selection,selecting the most useful features to train on among existing features
+Feature extraction,combining existing features to produce a more useful one
+sampling,Sampling is a process used in statistical analysis in which a predetermined number of observations are taken from a larger population
+sampling bias,Sampling bias occurs when some members of a population are systematically more likely to be selected in a sample than others
+overfitting model,"model performs well on the training data, but it does not generalize well"
+regularization,Constraining a model to make it simpler and reduce the risk of overfitting
+hyperparameter,parameter whose value is used to control the learning process
