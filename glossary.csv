@@ -23,3 +23,6 @@ sampling bias,Sampling bias occurs when some members of a population are systema
 overfitting model,"model performs well on the training data, but it does not generalize well"
 regularization,Constraining a model to make it simpler and reduce the risk of overfitting
 hyperparameter,parameter whose value is used to control the learning process
+data pipeline,A sequence of data processing components
+Stratified sampling,A stratified random sampling involves dividing the entire population into homogeneous groups called strata
+skewed sampling,"If the population is skewed, then the distribution of sample mean looks more and more normal when gets larger"

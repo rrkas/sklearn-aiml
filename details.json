@@ -1,0 +1,36 @@
+{
+    "Root Mean Square Error (RMSE)": {
+        "formula": "RMSE(X,h) = sqrt((1/m) * sum(i=1..m, pow(h(xi)-yi, 2)))",
+        "notations": {
+            "RMSE(X,h)":"cost function measured on the set of examples using your hypothesis h",
+            "X": [
+                "matrix containing all the feature values (excluding labels) of all instances in the dataset",
+                "There is one row per instance and the ith row is equal to the transpose of x(i), noted (x(i))T"
+            ],
+            "h": "system's prediction function, also called a hypothesis",
+            "m": "number of instances in the dataset",
+            "xi": "vector of all the feature values (excluding the label) of the ith instance in the dataset",
+            "yi": "label (the desired output value for that instance)"
+        },
+        "notes":[
+            "follows Euclidian norm"
+        ]
+    },
+    "Mean Absolute Error (MAE)":{
+        "formula": "MAE(X,h) = (1/m) * sum(i=1..m, abs(h(xi)-yi))",
+        "notations": {
+            "MAE(X,h)":"cost function measured on the set of examples using your hypothesis h",
+            "X": [
+                "matrix containing all the feature values (excluding labels) of all instances in the dataset",
+                "There is one row per instance and the ith row is equal to the transpose of x(i), noted (x(i))T"
+            ],
+            "h": "system's prediction function, also called a hypothesis",
+            "m": "number of instances in the dataset",
+            "xi": "vector of all the feature values (excluding the label) of the ith instance in the dataset",
+            "yi": "label (the desired output value for that instance)"
+        },
+        "notes":[
+            "follows Manhattan norm"
+        ]
+    }
+}
