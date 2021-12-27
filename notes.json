@@ -70,5 +70,10 @@
             "Quora.com question (https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)",
             "Datasets subreddit (https://www.reddit.com/r/datasets)"
         ]
+    },
+    "Prepare data for ML Algos":{
+        "Data Cleaning": [
+            "filling missing values"
+        ]
     }
 }

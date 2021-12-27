@@ -63,6 +63,8 @@ scipy==1.7.3
 Send2Trash==1.8.0
 six==1.16.0
 sklearn==0.0
+sklearn-features==0.0.2
+sklearn-pandas==2.2.0
 terminado==0.12.1
 testpath==0.5.0
 threadpoolctl==3.0.0

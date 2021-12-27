@@ -26,3 +26,7 @@ hyperparameter,parameter whose value is used to control the learning process
 data pipeline,A sequence of data processing components
 Stratified sampling,A stratified random sampling involves dividing the entire population into homogeneous groups called strata
 skewed sampling,"If the population is skewed, then the distribution of sample mean looks more and more normal when gets larger"
+duck typing,"type or the class of an object is less important than the method it defines. Using Duck Typing, we do not check types at all. Instead, we check for the presence of a given method or attribute."
+feature scaling,Feature Scaling is a technique to standardize the independent features present in the data in a fixed range
+min-max scaling or normalization,"consists of rescaling the range of features to scale the range in [0, 1]"
+Standardization,Standardization is another scaling technique where the values are centered around the mean with a unit standard deviation
