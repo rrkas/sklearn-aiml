@@ -30,3 +30,4 @@ duck typing,"type or the class of an object is less important than the method it
 feature scaling,Feature Scaling is a technique to standardize the independent features present in the data in a fixed range
 min-max scaling or normalization,"consists of rescaling the range of features to scale the range in [0, 1]"
 Standardization,Standardization is another scaling technique where the values are centered around the mean with a unit standard deviation
+Ensemble Learning,Building a model on top of many other models
